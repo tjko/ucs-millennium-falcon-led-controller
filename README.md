@@ -39,12 +39,11 @@ http://x.x.x.x/
 Additionally device can be easily controlled from scripts/programs using following URLs:
 
 URL|Function
-------------
+---|---------
 http://x.x.x.x/on|Turn lights ON
 http://x.x.x.x/off|Turn lights OFF
 http://x.x.x.x/status|Return current device status in CSV format
 http://x.x.x.x/save|Save currently set light levels as (power on) defaults
-------------
 
 
 Device status is returned in following format (when using http://x.x.x.x/status):
