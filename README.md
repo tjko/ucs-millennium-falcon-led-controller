@@ -66,8 +66,8 @@ UCS Millennium Falcon,powerstatus,sleeptimer,main_level,engine_level,interior_le
 
 ### Initial configuration of ESP-01 module
 
-Before connecting ESP-01 module, it needs some defaults configure (like WiFi SSD/password).
-This is usually esiest with one of the cheap USB adapters that power the module and provide USB serial port.
+Before connecting ESP-01 module, it needs some defaults configured (like WiFi SSD/password).
+This is usually esiest with one of the cheap USB adapters that power the module and provide USB serial port connection.
 
 Connect to ESP-01 module using a terminal emulator (Arduino IDE Serial Monitor works well, just remember to choose
 "Both NL & CR" option). 
