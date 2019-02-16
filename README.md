@@ -1,6 +1,8 @@
 # ucs-millennium-falcon-led-controller
 WiFi enabled LED light controller for UCS Millennium Falcon LEGO set.
 
+![Web UI](img/web-ui-example.png?raw=true)
+
 This contoller is able to control 4 separate light segments and adjust brighness (using PWM modulation).
 Additionally controller has automatic "sleep timer" so that lights will turn off after a set interval (default 8 hours).
 
@@ -25,6 +27,15 @@ This light kit was slightly "modified" by splitting it into 4 sections (main lig
 
 ## Schematic
 
+[Schematic](schematic.pdf?raw=true) is available as a PDF. PCB layout is left as an exersice for the reader :)
+
+Following images show one implementation on a half-size "Perma-Proto" board from Adafruit:
+
+![PCB top side](img/pcb-top.jpg?raw=true)
+
+Black marker shows three cuts that were needed on the traces on the back side of the board:
+
+![PCB bottom side](img/pcb-bottom.jpg?raw=true)
 
 ## Usage Notes
 
