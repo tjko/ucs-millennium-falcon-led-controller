@@ -20,7 +20,7 @@ This light kit was slightly "modified" by splitting it into 4 sections (main lig
 - 2 x 10K resistor
 - 5 x 1N4007 diode (or similar)
 - 1 x 2200uF/16V capasitor (or larger capacity)
-- 4 x TIP120 transistor (TIP121 or TIP122 work as well)
+- 4 x TIP120 darlington transistors (TIP121 or TIP122 work as well) or IRLB8271 N-channel MOSFETs
 - some 0.1" / 2.54mm female header to make 2x4 socket for the ESP-01
 - some Mini/Micro JST (2-pin) connector pigtails 
 
