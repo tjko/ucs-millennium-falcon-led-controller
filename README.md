@@ -27,7 +27,7 @@ This light kit was slightly "modified" by splitting it into 4 sections (main lig
 
 ## Schematic
 
-[Schematic](schematic.pdf?raw=true) is available as a PDF. PCB layout is left as an exersice for the reader :)
+[Schematic](schematic.pdf) is available as a PDF. PCB layout is left as an exersice for the reader :)
 
 Following images show one implementation on a half-size "Perma-Proto" board from Adafruit:
 
