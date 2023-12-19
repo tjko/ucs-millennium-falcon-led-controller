@@ -1,6 +1,8 @@
 # ucs-millennium-falcon-led-controller
 WiFi enabled LED light controller for UCS Millennium Falcon LEGO set. This using an Arduino (Pro Micro) board and ESP-01 (ESP8266) WiFi module.
 
+**NOTE!** _There is now a new improved version of this project: [BrickPico](https://github.com/tjko/brickpico/)_
+
 ![Web UI](img/web-ui-example.png?raw=true)
 
 This contoller is able to control 4 separate light segments and adjust brighness (using PWM modulation).
